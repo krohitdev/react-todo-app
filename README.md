@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Built using [styled-components](https://www.styled-components.com) and [Unstated](https://github.com/jamiebuilds/unstated).
 
 ## Challenge
+
 This is a simple todo app with the ability to create todos and mark them as complete.
 The problem with this app is that it is too simple and it is missing some features!
 Right now we only have one list showing with all its todos there, and we can’t create new lists, and we can't filter todos.
@@ -27,3 +28,17 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
+
+## Description
+
+### ALL Task
+
+![alt text](images/all.png 'All Task')
+
+### Complete Task
+
+![alt text](images/complete.png 'Complete Task')
+
+### In-progress Task
+
+![alt text](images/in-progress.png 'In-progress')
